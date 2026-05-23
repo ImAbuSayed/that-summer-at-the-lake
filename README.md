@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/that-summer-at-the-lake/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for That Summer at the Lake](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/that-summer-at-the-lake/) |
+| **Get License** | [Get a Licensing Quote for That Summer at the Lake](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/that-summer-at-the-lake/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `49d98a8cde023ec2ddef7e7f640992b7cf7824d11899bf20b17c47c683b91a77` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
