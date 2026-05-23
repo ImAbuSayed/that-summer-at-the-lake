@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/that-summer-at-the-lake/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for That Summer at the Lake](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/that-summer-at-the-lake/) |
+| **Get License** | [Music Rights & Licensing for That Summer at the Lake](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/that-summer-at-the-lake/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can still taste the whiskey on your lips tonight
+> Dancing in the headlights, everything felt so right
+> Pull me in closer underneath the fading moon
+> Don't you stop the rhythm, morning is coming too soon
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
